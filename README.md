@@ -56,4 +56,3 @@ To provide personalized and relevant results, this system also includes a dual-m
 
 ---
 
-Let me know if you want to include a flow diagram, code usage examples, or badges for deployment, Docker, or API status in the README!
